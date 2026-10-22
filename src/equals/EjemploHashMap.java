@@ -33,6 +33,7 @@ public class EjemploHashMap {
 		
 		for (String nombre : notas.keySet()) {
 			System.out.println("Nombre: " + nombre + "; Nota: " + notas.get(nombre));
+			System.out.println("hola");
 		}
 	}
 	
