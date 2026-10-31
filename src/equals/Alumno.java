@@ -104,7 +104,7 @@ public class Alumno implements Comparable<Alumno> {
 		
 		
 		// Comparator<Alumno> porNombre2 = (a, b) -> a.nombre.compareTo(b.nombre);
-		
+		System.out.println("miau");
 	}
 
 }
